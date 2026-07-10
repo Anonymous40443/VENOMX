@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="Gemini_Generated_Image_ujwlb6ujwlb6ujwl" src="https://github.com/user-attachments/assets/cca3fc0d-233a-453d-b5ab-2a81daa6f3a6" />
 # 🐍 VENOM-X v4.0 - Purple Arsenal Edition 💜
 
 **VENOM-X** é um framework de **Web Intelligence & Deep Recon** de alto desempenho. Projetado para auditores de segurança e pentesters que buscam descobrir o que está oculto na superfície da web. 
